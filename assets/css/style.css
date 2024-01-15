@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'PT Sans', sans-serif !important;
+    
+}
+
+ul {
+    list-style: none;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+a {
+    text-decoration: none !important;
+    color: #000;
+}
+
+
+
+
+
+/* ------------------------------------- */
+
+
+/* Navbar  Part */
+.navbar {
+    background-color: #fcdb00 !important;
+    font-size: 16px !important;
+    font-weight: 700;
+}
+
+/* Navbar  Part End */
+
+/* ------------------------------------- */
+
+
+/* Hero  Part */
+.hero_part {
+    background-color: #fcdb00;
+}
+.hero_con p {
+    font-size: 16px;
+    padding: 10px 0;
+    line-height: 20px;
+
+}
+.hero_con h3 {
+    font-size: 32px;
+    padding-top: 90px;
+    font-weight: 500;
+}
+.hero_con h4 {
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 35px;
+}
+
+
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50% !important;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+}
+/* Hero  Part End */
+
+/* ------------------------------------- */
+
+
+/* About  Part */
+.about_part {
+    padding-top: 150px;
+    padding-bottom: 200px;
+    
+}
+
+
+
+.about_part .about_head h3 {
+    font-size: 32px;
+    font-weight: 700;
+}
+.about_part .about_head p {
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 150px !important;
+    padding-right: 150px !important;
+}
+.about_part .container .div-33 {
+    height: 1px !important;
+    width: 940px !important;
+    background-color: #000000 !important;
+    margin-bottom: 50px;
+}
+
+.about_part .row h4 {
+    font-size: 22px;
+    font-weight: 600;
+}
+.about_part .row p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+/* About  Part End */
+
+/* ------------------------------------- */
+
+
+
+
+
+/* Contact  Part */
+.contact_part {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-color: #010101;
+}
+
+.contact_part .contact_head h3 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #fcdb00;
+}
+.contact_part .contact_head p {
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 150px !important;
+    padding-right: 150px !important;
+    color: #898989;
+}
+
+.contact_part button {
+    background-color: #fcdb00;
+    font-size: 16px;
+    font-weight: 600;
+}
+.contact_part button:hover {
+    background-color: #f6dc36;
+}
+.contact_part .parthiv {
+    width: 500px !important;
+}
+.contact_part .contect_bar a {
+    color: #fff;
+}
+.contact_part .contect_bar a:hover {
+    color: #fcdb00;
+}
+
+/* Contact  Part End */
+
+/* ------------------------------------- */
+
+
+
